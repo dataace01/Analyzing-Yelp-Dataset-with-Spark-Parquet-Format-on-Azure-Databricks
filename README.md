@@ -51,3 +51,7 @@ frames.
 visualized using bar charts.
 NOTE: - The Container in Azure is created with the name “yelpcontainer” for uploading the dataset.
 - The Yelp dataset files are uploaded in the Container in Azure.
+
+Project Workflow:
+![image](https://user-images.githubusercontent.com/94673026/190616122-bf8fef01-1142-4047-875a-bc18d006f9ce.png)
+
