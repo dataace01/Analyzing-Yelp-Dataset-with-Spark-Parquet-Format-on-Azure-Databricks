@@ -49,8 +49,7 @@ to Parquet format and further converting it to Delta format for smooth analysis.
 frames.
 - Finally, data is analyzed into Spark in Databricks deducing recommendations and data are
 visualized using bar charts.
-NOTE: - The Container in Azure is created with the name “yelpcontainer” for uploading the dataset.
-- The Yelp dataset files are uploaded in the Container in Azure.
+
 
 ![image](https://user-images.githubusercontent.com/94673026/190616332-74f509a4-7e1f-481e-aa62-3dedc5d075e4.png) ![image](https://user-images.githubusercontent.com/94673026/190616379-514e6447-d58e-4c40-a9fe-03a6eb18b732.png)
 
